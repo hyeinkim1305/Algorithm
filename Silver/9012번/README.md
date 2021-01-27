@@ -1,10 +1,6 @@
-# BOJ 9012번
+# BOJ 9012번 괄호
 
-#### 문제출처 https://www.acmicpc.net/problem/9012 
-
-
-
-![image-20210126224307245](README.assets/image-20210126224307245.png)
+##### 문제 https://www.acmicpc.net/problem/9012 
 
 
 

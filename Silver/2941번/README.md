@@ -1,8 +1,8 @@
-# BOJ 2941번
+# BOJ 2941번 
 
-#### 문제출처 https://www.acmicpc.net/problem/2941 
+##### 크로아티아 알파벳 https://www.acmicpc.net/problem/2941 
 
-![image-20210127205138255](README.assets/image-20210127205138255.png)
+
 
 - 문자열 내에서 크로아티아 알파벳이 있으면 그 자리를 공백으로 바꾸고 나중에 최종적으로 나온 문자열의 길이를 세주는 방식으로 풀었다.
 - 문자열에서 크로아티아 알파벳들을 지우는 방식을 생각할 때 replace, strip, remove를 떠올렸는데, replace로 풀 수 있었다.
