@@ -2,8 +2,6 @@
 
 ##### 문제출처 https://www.acmicpc.net/problem/2577 
 
-![image-20210116202521125](README.assets/image-20210116202521125.png)
-
 
 
 1. 문자열에서 문자개수 세는 방법
