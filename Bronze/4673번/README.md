@@ -2,8 +2,6 @@
 
 ##### 문제출처 https://www.acmicpc.net/problem/4673 
 
-![image-20210118162123770](README.assets/image-20210118162123770.png)
-
 
 
 ###### checkpoint
