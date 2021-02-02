@@ -24,5 +24,5 @@ for t in range(T):
     num = map(str, num)
     print(' '.join(num))
 
-      
+        
     
