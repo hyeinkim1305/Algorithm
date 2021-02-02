@@ -11,3 +11,4 @@ for i in range(T):
 for a in a_list:
   for j in range(len(b)-len(a)):
     a 
+   ㄴ
