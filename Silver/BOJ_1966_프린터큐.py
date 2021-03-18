@@ -9,7 +9,7 @@
 '''
 from collections import deque
 
-def f(q, cnt, M):
+def f(q, cnt, M):       # M 은 몇번째로 인쇄되는지 알기
     while q:
         if max(q) == q[0]:
             if M == 0:
