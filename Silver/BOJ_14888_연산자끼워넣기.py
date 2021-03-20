@@ -2,7 +2,7 @@
 def cal(a, end, s, op1, op2, op3, op4):        # a 시작인덱스 end 끝인덱스 signs 연산자들 s 지금까지합
     global max_s
     global min_s
-    if a == end:        # 연산자 끝까지 왔을 때
+    if a == end:        # 연산자 끝까지 왔을 때 if문
         if s > max_s:
             max_s = s
         if s < min_s:
