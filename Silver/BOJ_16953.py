@@ -17,9 +17,7 @@ a, b = map(int, input().split())
 print(change(a, b))
 
 
-
-
-# 틀린 풀이
+# 틀린 풀이 !
 # def change(a, b, ans, cnt):
 #     global min_cnt
 #
