@@ -44,3 +44,12 @@ n = 20
 th = [3, 3, 1, 1, 2, 2, 4, 4]
 third = [i for i in th] * (n // 8) + th[:(n % 8)]
 print(third)
+
+
+'''
+추가로 공부한 다른사람풀이
+--> enumerate를 활용해서 answer의 인덱스값과 pattern의 길이를 나눠준 나머지로 해도 가능하다.
+for idx, answer in enumerate(answers):
+        if answer == pattern1[idx%len(pattern1)]:
+            score[0] += 1
+'''
