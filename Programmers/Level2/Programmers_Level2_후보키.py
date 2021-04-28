@@ -34,7 +34,7 @@ def solution(relation):
     return len(ans)
 
 
-# 다른 사람 풀이 공부
+# 다른 풀이 공부
 
 def solution(relation):
     answer_list = list()
